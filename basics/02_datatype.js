@@ -12,7 +12,7 @@ let isHeComing=true;
 // symbol=>unique 
 // this all are premitive data type 
 
-console.log(typeof "mejbha");
+console.log(typeof age);
 console.log(typeof mejbha);
 
 
