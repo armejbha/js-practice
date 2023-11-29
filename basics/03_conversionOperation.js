@@ -27,12 +27,35 @@ let convertToBoolean=Boolean(isComingIN);
 
 let someNumber=undefined;
 let convertToString=String(someNumber);
-console.log(convertToString);
-console.log(typeof convertToString);
+// console.log(convertToString);
+// console.log(typeof convertToString);
 
 //33=>33
 //""=>
 //null=>null
 //undefined=>undefined
+
+
+//**************************************************Operation******************************************************//
+
+let str1="hello"
+let str2=" mejbha"
+let str3=str1 +str2
+// console.log(str3);a
+
+// console.log("1"+2);
+// console.log(1+1+"2");
+
+//firstly focus on which type of data showing here they are strig or number
+
+
+let number=10;
+let otherNumber=++number
+console.log(number,otherNumber);
+
+
+
+
+
 
 
